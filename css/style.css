@@ -8,7 +8,6 @@ h1{
     animation: 3s linear 1s slidein;
     
 }
-
 @keyframes slidein {
     from {
       margin-left: 100%;
@@ -20,8 +19,7 @@ h1{
       width: 100%;
     }
   }
-
-h2{
+h2 {
     font-size:300%;
     color:rgb(26, 18, 77);
     font-family:'Times New Roman', Times, serif;
@@ -29,7 +27,7 @@ h2{
 h3{
     font-size:200%;
     color:rgb(5, 5, 77);
-    font-family:'Times New Roman', Times, serif */
+    font-family:'Times New Roman', Times, serif 
 }
 body{
     background-color: #d1d7e5;
@@ -165,58 +163,7 @@ figcaption {
     
 
     
-
     
- 
-   
-    /* body {
-        background-color:lightblue;
-        margin-left: 10px;
-    }
-    nav {
-        text-align: left;
-    }
-    nav > ul{
-        margin: auto;
-        border: solid black;
-        grid-column: 1;
-    }
-    p {
-        margin: auto;
-        padding: 10px
-    }
-    div > img {
-        display: grid;
-
-    }
-    #firstpic{
-        grid-column: 2;
-    }
-
-    /* h2, h3 {
-        text-align: center;
-    } */
-    /* ul> li {
-        display: inline-block
-    }
-
-    figure > img {
-        grid-column: 1;
-    }
-    /* figcaption{
-        text-align: center;
-    } */
-    /* h2 ul li {
-        grid-column: 2;
-    }
-    ul{
-        list-style: disc;
-        padding-left: 10px;
-    } */ */ */
-    
-
-
-
 @media (prefers-reduced-motion: reduce) {
     .gif{
         display: none;
